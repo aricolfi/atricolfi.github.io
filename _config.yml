@@ -1,6 +1,5 @@
 # General Jekyll Config
 
-theme: minima
 highlighter: rouge
 url: http://example.com
 lsi: false
