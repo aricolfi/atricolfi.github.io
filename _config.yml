@@ -11,4 +11,5 @@ plugins:
   # Google Analytics
 google_analytics: UA-69432205-2
 
-
+plugins:
+  - jekyll-tabs
